@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Internal Combustion Engine Labs
 uid: 64a15f0e-8adc-26d2-cd98-7bcec2ba4de9
 ---
@@ -25,7 +27,7 @@ Measure the intake runner length and the size of the manifold (these values do n
 
 Measure the bore, the stroke, and the connecting rod lengths.
 
-Measure the mass and dimensions of the piston (see figure below). (Why are the values of B1, B2, B3 and Bs different?) Estimate the inertia force required to move the piston at 6000 rpm. Estimate the temperature at which the top land (diameter B1) would be touching the liner which is kept by the coolant to be at 100oC.
+Measure the mass and dimensions of the piston (see figure below). (Why are the values of B{{< sub "1" >}}, B{{< sub "2" >}}, B{{< sub "3" >}} and B{{< sub "s" >}} different?) Estimate the inertia force required to move the piston at 6000 rpm. Estimate the temperature at which the top land (diameter B{{< sub "1" >}}) would be touching the liner which is kept by the coolant to be at 100{{< sup "o" >}}C.
 
 Measure the valve diameters and the lifts. (The latter may be obtained from the cam measurements.) Why are the intake and exhaust valve diameters different?
 

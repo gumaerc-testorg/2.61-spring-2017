@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-61-internal-combustion-engines-spring-2017/ea6fff400434e4163a91c1579ccf7236_MIT2_61S17_lec7.pdf
+file: /media/courses/2-61-internal-combustion-engines-spring-2017/ea6fff400434e4163a91c1579ccf7236_MIT2_61S17_lec7.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Internal Combustion Engines, Lecture 7 Mixture preparation in SI engines
 uid: ea6fff40-0434-e416-3a91-c1579ccf7236

@@ -1,8 +1,12 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-61-internal-combustion-engines-spring-2017/a7067be3c733de3976de757325195313_MIT2_61S17_lab_soln.pdf
+file: /media/courses/2-61-internal-combustion-engines-spring-2017/a7067be3c733de3976de757325195313_MIT2_61S17_lab_soln.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
+parent_title: Internal Combustion Engine Labs
+parent_type: CourseSection
 resourcetype: Document
 title: Internal Combustion Engines, lab solutions
 uid: a7067be3-c733-de39-76de-757325195313

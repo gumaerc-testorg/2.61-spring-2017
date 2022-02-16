@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Internal Combustion Engine Labs
+parent_type: CourseSection
 parent_uid: 64a15f0e-8adc-26d2-cd98-7bcec2ba4de9
 title: Measurement Record Form
 uid: 462a1882-d228-b037-e667-676fad2fbfb1
@@ -117,7 +120,7 @@ Connecting rod length (_l_)
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Displacement (VD)
+Displacement (V{{< sub "D" >}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -147,7 +150,7 @@ Piston mass
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Piston diameter at first land (B1)
+Piston diameter at first land (B{{< sub "1" >}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -171,7 +174,7 @@ Inertia force required to move piston at 6000 rpm
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Piston diameter at second land (B2)
+Piston diameter at second land (B{{< sub "2" >}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -183,7 +186,7 @@ Piston diameter at second land (B2)
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Piston diameter at third land (B3)
+Piston diameter at third land (B{{< sub "3" >}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -195,61 +198,7 @@ Piston diameter at third land (B3)
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Piston diameter at skirt (Bs)
-{{< tdclose >}}
-{{< tdopen >}}
- 
-{{< tdclose >}}
-{{< tdopen >}}
- 
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
- 
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-Top land height (h1)
-{{< tdclose >}}
-{{< tdopen >}}
- 
-{{< tdclose >}}
-{{< tdopen >}}
- 
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-Second land height (h2)
-{{< tdclose >}}
-{{< tdopen >}}
- 
-{{< tdclose >}}
-{{< tdopen >}}
- 
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-Third land height (h3)
-{{< tdclose >}}
-{{< tdopen >}}
- 
-{{< tdclose >}}
-{{< tdopen >}}
- 
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-Skirt height (hs)
+Piston diameter at skirt (B{{< sub "s" >}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -267,7 +216,7 @@ Skirt height (hs)
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Top ring groove gap (g1)
+Top land height (h{{< sub "1" >}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -279,7 +228,7 @@ Top ring groove gap (g1)
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Second ring groove gap (g2)
+Second land height (h{{< sub "2" >}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -291,25 +240,7 @@ Second ring groove gap (g2)
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Control ring groove gap (g3)
-{{< tdclose >}}
-{{< tdopen >}}
- 
-{{< tdclose >}}
-{{< tdopen >}}
- 
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen colspan="3" >}}
- 
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-Top ring groove depth (d1)
+Third land height (h{{< sub "3" >}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -321,19 +252,7 @@ Top ring groove depth (d1)
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Second ring groove depth (d2)
-{{< tdclose >}}
-{{< tdopen >}}
- 
-{{< tdclose >}}
-{{< tdopen >}}
- 
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-Control ring groove depth (d3)
+Skirt height (h{{< sub "s" >}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -351,7 +270,7 @@ Control ring groove depth (d3)
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Top ring width (w1)
+Top ring groove gap (g{{< sub "1" >}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -363,7 +282,19 @@ Top ring width (w1)
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Top ring thickness (t1)
+Second ring groove gap (g{{< sub "2" >}})
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Control ring groove gap (g{{< sub "3" >}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -381,7 +312,7 @@ Top ring thickness (t1)
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Second ring width (w2)
+Top ring groove depth (d{{< sub "1" >}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -393,7 +324,79 @@ Second ring width (w2)
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Second ring thickness (t2)
+Second ring groove depth (d{{< sub "2" >}})
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Control ring groove depth (d{{< sub "3" >}})
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Top ring width (w{{< sub "1" >}})
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Top ring thickness (t{{< sub "1" >}})
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Second ring width (w{{< sub "2" >}})
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Second ring thickness (t{{< sub "2" >}})
 {{< tdclose >}}
 {{< tdopen >}}
  

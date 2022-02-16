@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-61-internal-combustion-engines-spring-2017/c3571ba6dcced7a00df0f3436fb04aea_ice_bibliography.pdf
+file: /media/courses/2-61-internal-combustion-engines-spring-2017/c3571ba6dcced7a00df0f3436fb04aea_ice_bibliography.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: Internal Combustion Engines Bibliography
 uid: c3571ba6-dcce-d7a0-0df0-f3436fb04aea
