@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section lists the reading references for each lecture.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -12,9 +13,9 @@ Required Textbook
 
 Heywood, J. B. _Internal Combustion Engine Fundamentals_. New York, NY: McGraw-Hill, 1988. ISBN: 9780070286375.
 
-[Corrections to the required text from the author (PDF)]({{< baseurl >}}/resources/corrections) (Courtesy John Heywood. Used with permission.)
+{{% resource_link b787d286-3a9a-55bc-e2df-6c4c8c8d5b16 "Corrections to the required text from the author (PDF)" %}} (Courtesy John Heywood. Used with permission.)
 
-For further reading on internal combustion engines, an annotated [bibliography (PDF)]({{< baseurl >}}/resources/ice_bibliography) is available.
+For further reading on internal combustion engines, an annotated {{% resource_link c3571ba6-dcce-d7a0-0df0-f3436fb04aea "bibliography (PDF)" %}} is available.
 
 {{< tableopen >}}
 {{< theadopen >}}

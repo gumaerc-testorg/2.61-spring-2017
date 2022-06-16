@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Internal Combustion Engine Labs
@@ -9,7 +10,7 @@ title: Measurement Record Form
 uid: 462a1882-d228-b037-e667-676fad2fbfb1
 ---
 
-This form is for students to record the measurement results and comments for Lab 1: Disassembly and Assembly of Engines on the [Internal Combustion Engine Labs]({{< baseurl >}}/pages/labs) section.
+This form is for students to record the measurement results and comments for Lab 1: Disassembly and Assembly of Engines on the {{% resource_link 64a15f0e-8adc-26d2-cd98-7bcec2ba4de9 "Internal Combustion Engine Labs" %}} section.
 
 {{< tableopen >}}
 {{< theadopen >}}
