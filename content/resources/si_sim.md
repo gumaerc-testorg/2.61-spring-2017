@@ -5,6 +5,7 @@ file: /courses/2-61-internal-combustion-engines-spring-2017/0a190dd6cf68ea10f836
 file_type: text/x-objcsrc
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection

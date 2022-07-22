@@ -5,6 +5,7 @@ file: /courses/2-61-internal-combustion-engines-spring-2017/ea6fff400434e4163a91
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection

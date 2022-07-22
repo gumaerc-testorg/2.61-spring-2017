@@ -5,6 +5,7 @@ file: /courses/2-61-internal-combustion-engines-spring-2017/abe25c04bd0d0a791fad
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection

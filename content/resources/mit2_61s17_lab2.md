@@ -4,6 +4,7 @@ description: ''
 file: /courses/2-61-internal-combustion-engines-spring-2017/30452cd18faa3e0f8558bf945b7c0ad6_MIT2_61S17_lab2.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Internal Combustion Engine Labs
 parent_type: CourseSection
