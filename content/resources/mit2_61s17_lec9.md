@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/2-61-internal-combustion-engines-spring-2017/f8aec73c2e9233c4e8e3674d77428483_MIT2_61S17_lec9.pdf
+file_size: 308104
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
