@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/2-61-internal-combustion-engines-spring-2017/ce2e4c321232fd23b79b86008a37e4a4_MIT2_61S17_ps5_soln.pdf
+file_size: 143916
 file_type: application/pdf
 learning_resource_types:
 - Assignments

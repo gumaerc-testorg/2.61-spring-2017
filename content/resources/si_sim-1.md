@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/2-61-internal-combustion-engines-spring-2017/6ec42a5de2f781c7227819b88a89231d_si_sim.oum
+file_size: 76020
 file_type: application/octet-stream
 learning_resource_types:
 - Assignments
