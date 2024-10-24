@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/2-61-internal-combustion-engines-spring-2017/c9ded809347d94a8017553bb4385e84c_Engine_specs.xlsx
+file: /ol-ocw-studio-app/courses/2-61-internal-combustion-engines-spring-2017/c9ded809347d94a8017553bb4385e84c_Engine_specs.xlsx
 file_size: 103891
 file_type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
 learning_resource_types: []
