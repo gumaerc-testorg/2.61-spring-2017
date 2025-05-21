@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/2-61-internal-combustion-engines-spring-2017/c3571ba6dcced7a00df0f3436fb04aea_ice_bibliography.pdf
+file: /courses/2-61-internal-combustion-engines-spring-2017/c3571ba6dcced7a00df0f3436fb04aea_ice_bibliography.pdf
 file_size: 97791
 file_type: application/pdf
 learning_resource_types:
