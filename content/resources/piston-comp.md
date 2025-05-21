@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/2-61-internal-combustion-engines-spring-2017/34f6a540bbf1e31ce1c1510b7c6afb12_piston-comp.jpg
+file: /courses/2-61-internal-combustion-engines-spring-2017/34f6a540bbf1e31ce1c1510b7c6afb12_piston-comp.jpg
 file_size: 14436
 file_type: image/jpeg
 image_metadata:

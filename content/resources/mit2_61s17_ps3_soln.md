@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/2-61-internal-combustion-engines-spring-2017/4c35dc97477d356f24b210522913e121_MIT2_61S17_ps3_soln.pdf
+file: /courses/2-61-internal-combustion-engines-spring-2017/4c35dc97477d356f24b210522913e121_MIT2_61S17_ps3_soln.pdf
 file_size: 1559113
 file_type: application/pdf
 learning_resource_types:
